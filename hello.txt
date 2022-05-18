@@ -6,5 +6,5 @@ hello wuhu  hello git!
 hello wuhu  hello git!
 hello wuhu  hello git!
 hello wuhu  hello git!
-hello wuhu  hello git!
+hello wuhu  hello git! master text
 hello wuhu  hello git!
